@@ -1,2 +1,2 @@
-# Clase 14-06
+# Interface y ScriptabeObject
  Ejemplo de como utilizar Interface y ScriptabeObject
